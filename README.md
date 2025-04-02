@@ -36,7 +36,7 @@ Below is an example of a heatmap showing call frequency by hour and day of the w
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/911_calls_analysis.git
+   git clone https://github.com/eli-carella/911_calls_analysis.git
    ```
 2. Install dependencies:
    ```bash
@@ -46,5 +46,5 @@ Below is an example of a heatmap showing call frequency by hour and day of the w
 
 ## 📩 Contact
 
-For any questions or collaborations, feel free to connect via [LinkedIn](https://www.linkedin.com/in/yourprofile/) or email me at [**your.email@example.com**](mailto\:your.email@example.com).
+For any questions or collaborations, feel free to connect via [LinkedIn](https://www.linkedin.com/in/elisabetta-carella-907414246/) or email me at [**eli.carella@gmail.com**](mailto\:eli.carella@gmail.com).
 
